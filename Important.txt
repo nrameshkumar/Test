@@ -1,0 +1,46 @@
+3:
+UI Template 
+TaskManagerService
+Remove - node_modules from UI Template, bin folder from TaskManagerService
+Performance Testing - Using NBench
+
+4:
+Deployment IIS - UI Template, TaskManagerService 
+Unit Testing - Results - UI
+
+5:
+Evidence Screenshot:
+Solution Structure - Screenshot
+Unit Testing - Results - Both Service & UI
+Performance Testing - Execute Power shell - TBD
+Deployment IIS Screenshot
+Project Run Screenshot
+
+
+
+Jenkins:
+http://localhost:8080
+
+
+C:\Ramesh\TaskManagerService\TaskManagerService> .\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe .\C:\R
+amesh\TaskManagerService\TaskManagerService\TaskManager.NBench\bin\Debug\TaskManager.NBench.DLL
+
+
+ .\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe .\C:\Ramesh\TaskManagerService\TaskManagerService\TaskManager.NBench\bin\Debug\TaskManager.NBench.DLL
+
+
+
+
+
+
+C:\Ramesh\TaskManagerService\TaskManagerService\packages\NBench.1.2.2\lib\net452
+
+
+ .\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe .\TaskManager.NBench\bin\Debug\TaskManager.NBench.DLL
+
+
+ .\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe .\TaskManager.NBench\bin\Debug\ProjectManager.NBench.DLL
+
+C:\Ramesh\ProjectManagerService\TaskManager.NBench\bin\Debug
+
+https://github.com/nrameshkumar26/ProjectManager.git
